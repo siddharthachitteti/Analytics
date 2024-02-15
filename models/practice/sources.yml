@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: WorldPopulation
+    database: worldpopulation-414208
+    schema: WorldPopulation
+    tables:
+      - name: CountriesByContinents
+      - name: WorldPopulation
